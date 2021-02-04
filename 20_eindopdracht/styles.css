@@ -1,0 +1,83 @@
+html {
+  font-family: arial;
+}
+
+body {
+    background-color: #222;
+}
+
+h1 {
+    color: white;
+    font-size: 2em;
+}
+
+
+header {
+    margin: 25px;
+    text-align: center;
+}
+
+#radios-div {
+    color: white;
+    width: 85%;
+    padding: 20px;
+    margin: 25px;
+    border: 2px solid white;
+}
+
+.movies-ul {
+    display: flex;
+}
+
+.movie-li {
+    display: inline;
+    color: white;
+}
+
+.movie-poster {
+    height: 300px;;
+    margin: 20px;
+}
+
+/*
+div:first-of-type {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 5px;
+}
+
+label {
+  margin-right: 15px;
+  line-height: 32px;
+}
+
+input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+
+  border: 2px solid #999;
+  transition: 0.2s all linear;
+  margin-right: 5px;
+
+  position: relative;
+  top: 4px;
+}
+
+input:checked {
+  border: 6px solid black;
+}
+
+legend {
+  color: white;
+  background-color: black;
+  padding: 5px 10px;
+  border-radius: 0;
+  border: 0;
+  font-size: 14px;
+}
+*/
